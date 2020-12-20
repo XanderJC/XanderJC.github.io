@@ -16,4 +16,4 @@ A full list of my published work can be found on my [Google Scholar](https://sch
 
 # Highlighted Publications
 
-Chan, A., Alaa, A., Qian, Z., & Van Der Schaar, M. (2020). **Unlabelled Data Improves Bayesian Uncertainty Calibration under Covariate Shift**. In International Conference on Machine Learning (ICML 2020)
+Chan, A., Alaa, A., Qian, Z., & Van Der Schaar, M. (2020). [**Unlabelled Data Improves Bayesian Uncertainty Calibration under Covariate Shift**](https://arxiv.org/abs/2006.14988). In International Conference on Machine Learning (ICML 2020)
