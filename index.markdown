@@ -6,4 +6,8 @@ layout: home
 background: '/img/cover.jpg'
 ---
 
-A little bit about me
+Hi! I'm **Alex**, a Machine Learnign PhD student at Cambridge and this is my website. 
+
+If for some reason you're interested in [who I am](/about) or [what I do](/research) then you've come to the right place.
+
+

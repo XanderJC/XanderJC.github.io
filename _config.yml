@@ -1,6 +1,6 @@
 title:              Alex J. Chan
 email:              alexjameschan@gmail.com
-description:        Welcome to my personal website.
+description:        Welcome to my website.
 author:             Alex J. Chan
 baseurl:            ""
 url:                "https://alexjchan.com"
@@ -10,7 +10,7 @@ twitter_username:   AlexJChan
 github_username:    XanderJC
 facebook_username:  
 instagram_username:  
-linkedin_username:
+linkedin_username: alexjchan
 
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 
