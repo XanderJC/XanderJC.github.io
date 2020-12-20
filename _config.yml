@@ -12,7 +12,7 @@ facebook_username:
 instagram_username:  
 linkedin_username:
 
-remote_theme: mmistakes/jekyll-theme-basically-basic
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 
 # Add your google-analytics ID here to activate google analytics
 #google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
