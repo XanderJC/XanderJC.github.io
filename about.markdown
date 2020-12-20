@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-description: Not sure there's anything interesting here.
+description: We need to talk about Alex.
 permalink: /about/
 background: '/img/housemates.jpg'
 ---
@@ -19,7 +19,7 @@ For my specific research interests please see [here](/research.markdown).
 
 # (Maybe) Interestingly
 
-Like many who arrive at Cambridge, I've been sucked into the cult of rowing and at the moment I'm the Novices Captain of the Wolfson College Boat Club, giving me the enviable task of training the next generation of Wolfson rowers during a pandemic.
+Like many who arrive at Cambridge, I've been sucked into the cult of rowing and currently I'm the Novices Captain of the Wolfson College Boat Club, giving me the enviable task of training the next generation of Wolfson rowers during a pandemic.
 <figure>
     <img src="../img/rowing.jpg" alt="drawing" width="715" />
     <figcaption>Lent Bumps 2020. Only finished -3 so not a complete failure.</figcaption>
