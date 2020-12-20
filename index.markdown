@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-background: '/img/cover_test.jpg'
+background: '/img/cover.jpg'
 ---
 
 A little bit about me
