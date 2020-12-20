@@ -26,7 +26,7 @@ Like many who arrive at Cambridge, I've been sucked into the cult of rowing and 
 <figure>
 
 <p markdown="1">
-Previous to taking up rowing, I trained in [Krav Maga](https://pure-kravmaga.co.uk){:target="_blank"} to the point of being a trainee-instructor. Learning an effective form of self-defence as well as the experience of teaching it pushed me well outside of my comfort zone and to its credit made me a lot more confident and outgoing.
+Previous to taking up rowing, I trained in [Krav Maga](https://pure-kravmaga.co.uk){:target="_blank"} to the point of being a trainee-instructor. Learning an effective form of self-defence as well as the experience of teaching it pushed me well outside of my comfort zone and to its credit made me far more confident and outgoing.
 </p>
 <figure>
     <img src="../img/krav.JPG" alt="drawing" width="715" />
