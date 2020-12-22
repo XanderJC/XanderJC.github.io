@@ -10,10 +10,12 @@ I do machine learning with a focus on problems that arise in the medical setting
 
 My main focus is imitation learning and inverse reinforcement learning for understanding (clinical) decision making as well as synthetic data generation. It's important to try to understand the decision making process of doctors so that we can best provide them with useful support and spot potentially dangerous mistakes. Synthetic data makes this goal more realistic by lowering the barrier to entry for others to do work in the area but can also be useful for benchmarking algorithms by providing ground truth notions to clinical data.
 
-My previous training in statistics means I'm always thinking about uncertainty, which is crucial to consider here. As a result, whenever I can, I like to do things in a [Bayesian](https://en.wikipedia.org/wiki/Bayesian_inference){:target="_blank"} way.
+Whenever I can, I like to do things in a [Bayesian](https://en.wikipedia.org/wiki/Bayesian_inference){:target="_blank"} way. Everything we do is done under uncertainty and this provides a principled way to reason in its presence - this is especially important when high-stakes decisions are being taken and knowing what we do not know becomes very relevant.
 
 A full list of my published work can be found on my [Google Scholar](https://scholar.google.com/citations?user=yfy_BGIAAAAJ&hl=en&oi=sra){:target="_blank"}
 
 # Highlighted Publications
+
+Chan, A. & Van Der Schaar, M. (2020). [**Scalable Bayesian Inverse Reinforcement Learning**](https://openreview.net/forum?id=4qR3coiNaIv){:target="_blank"}. Pre-print (Under review)
 
 Chan, A., Alaa, A., Qian, Z., & Van Der Schaar, M. (2020). [**Unlabelled Data Improves Bayesian Uncertainty Calibration under Covariate Shift**](https://arxiv.org/abs/2006.14988){:target="_blank"}. In International Conference on Machine Learning (ICML 2020)
