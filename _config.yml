@@ -15,7 +15,7 @@ linkedin_username: alexjchan
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 
 # Add your google-analytics ID here to activate google analytics
-#google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   UA-186031837-1 # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
