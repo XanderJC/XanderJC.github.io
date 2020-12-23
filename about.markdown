@@ -20,8 +20,16 @@ For my specific research interests please see [here](/research.markdown).
 # (Maybe) Interestingly
 
 Like many who arrive at Cambridge, I've been sucked into the cult of rowing and currently I'm the Novices Captain of the Wolfson College Boat Club, giving me the enviable task of training the next generation of Wolfson rowers during a pandemic.
+
+<style>
+.responsive {
+  width: 100%;
+  height: auto;
+}
+</style>
+
 <figure>
-    <img src="../img/rowing.jpg" alt="drawing" width="715" />
+    <img src="../img/rowing.jpg" alt="rowing" class="responsive" />
     <figcaption>Lent Bumps 2020. Only finished -3 so not a complete failure.</figcaption>
 <figure>
 
@@ -29,7 +37,7 @@ Like many who arrive at Cambridge, I've been sucked into the cult of rowing and 
 Previous to taking up rowing, I trained in [Krav Maga](https://pure-kravmaga.co.uk){:target="_blank"} to the point of being a trainee-instructor. Learning an effective form of self-defence as well as the experience of teaching it pushed me well outside of my comfort zone and to its credit made me far more confident and outgoing.
 </p>
 <figure>
-    <img src="../img/krav.JPG" alt="drawing" width="715" />
+    <img src="../img/krav.JPG" alt="krav" class="responsive" />
     <figcaption>Knife disarm - now time for some knees to the face.</figcaption>
 <figure>
 
