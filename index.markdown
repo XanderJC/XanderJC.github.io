@@ -21,15 +21,15 @@ background: '/img/cover.jpg'
     <img src="/img/me.jpg" alt="Alex Chan" class="responsive"/>
 <figure>
 
-<p markdown="1" style='text-align: justify;'>
+<p markdown="1">
 Hi! I'm **Alex**, a Machine Learning PhD student at Cambridge and this is my website. 
 </p>
 
-<p markdown="1" style='text-align: justify;'>
+<p markdown="1">
 If for some reason you're interested in [who I am](/about) or [what I do](/research) then you've come to the right place.
 </p>
 
-<p markdown="1" style='text-align: justify;'>
+<p markdown="1">
 You can find links below to my profiles on relevent professional platforms as well as some summaries of my previous works and interests. If I have the time, I also plan to write some more generally accessible explanations of my research in a series of [blog-posts](/posts), which will be updated sporadically. At the end of the day though, this website is just a personal project for me to advertise myself and potentially use to practice some front-end work, so if you can't find something feel free to get in contact through one of the many ways available in the modern world - including this [form](/contact).
 </p>
 
