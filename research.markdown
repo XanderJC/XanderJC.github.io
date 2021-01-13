@@ -23,12 +23,12 @@ A full list of my published work can be found on my [Google Scholar](https://sch
 
 # Highlighted Publications
 
-**Chan, A.** & Van Der Schaar, M. (2021). [**Scalable Bayesian Inverse Reinforcement Learning**](https://openreview.net/forum?id=4qR3coiNaIv){:target="_blank"}. International Conference on Learning Representations (ICLR 2021).
+**Chan, A.** & Van Der Schaar, M. [**Scalable Bayesian Inverse Reinforcement Learning**](https://openreview.net/forum?id=4qR3coiNaIv){:target="_blank"}, International Conference on Learning Representations (ICLR), 2021.
 
-Alaa, A., **Chan, A.** & Van Der Schaar, M. (2021). [**Generative Time-series Modeling with Fourier Flows**](https://openreview.net/forum?id=PpshD0AXfA){:target="_blank"}. International Conference on Learning Representations (ICLR 2021).
+Alaa, A., **Chan, A.**, & Van Der Schaar, M. [**Generative Time-series Modeling with Fourier Flows**](https://openreview.net/forum?id=PpshD0AXfA){:target="_blank"}, International Conference on Learning Representations (ICLR), 2021.
 
-**Chan, A.**, Alaa, A., Qian, Z., & Van Der Schaar, M. (2020). [**Unlabelled Data Improves Bayesian Uncertainty Calibration under Covariate Shift**](https://arxiv.org/abs/2006.14988){:target="_blank"}. In International Conference on Machine Learning (ICML 2020).
+**Chan, A.**, Alaa, A., Qian, Z., & Van Der Schaar, M. [**Unlabelled Data Improves Bayesian Uncertainty Calibration under Covariate Shift**](https://arxiv.org/abs/2006.14988){:target="_blank"}, International Conference on Machine Learning (ICML), 2020.
 
-**Chan, A.** & Van Der Schaar, M. (2020). [**Interpretable Policy Learning**](/docs/mphil_thesis.pdf){:target="_blank"}. MPhil Machine Learning and Machine Intelligence Thesis.
+**Chan, A.** & Van Der Schaar, M. [**Interpretable Policy Learning**](/docs/mphil_thesis.pdf){:target="_blank"}, MPhil Machine Learning and Machine Intelligence Thesis, 2020.
 
-**Chan, A.** & Silva, R. (2019). [**Probabilistic Deep Learning**](/docs/bsc_thesis.pdf){:target="_blank"}. BSc Statistics Thesis.
+**Chan, A.** & Silva, R.[**Probabilistic Deep Learning**](/docs/bsc_thesis.pdf){:target="_blank"}, BSc Statistics Thesis, 2019.
