@@ -118,8 +118,8 @@ background: '/img/cam.JPG'
 /* Media queries - Responsive timeline on screens less than 600px wide */
 @media screen and (max-width: 600px) {
   /* Place the timelime to the left */
-  .timeline::after {
-  left: 0px;
+  .timeline1::after {
+  left: 31px;
   }
   
   /* Full-width containers */
