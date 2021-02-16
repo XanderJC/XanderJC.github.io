@@ -162,7 +162,7 @@ If for some reason you're interested in [who I am](/about) or [what I do](/resea
 </p>
 
 <p markdown="1">
-You can find links below to my profiles on relevent professional platforms as well as some summaries of my previous works and interests. If I have the time, I also plan to write some more generally accessible explanations of my research in a series of [blog-posts](/posts), which will be updated sporadically. At the end of the day though, this website is just a personal project for me to advertise myself and potentially use to practice some front-end work, so if you can't find something feel free to get in contact through one of the many ways available in the modern world - including this [form](/contact).
+You can find links below to my profiles on relevent professional platforms (and importantly [Strava](https://www.strava.com/athletes/alexjchan){:target="_blank"}) as well as some summaries of my previous works and interests. If I have the time, I also plan to write some more generally accessible explanations of my research in a series of [blog-posts](/posts), which will be updated sporadically. At the end of the day though, this website is just a personal project for me to advertise myself and potentially use to practice some front-end work, so if you can't find something feel free to get in contact through one of the many ways available in the modern world - including this [form](/contact).
 </p>
 
 <h1>Recent News</h1>
