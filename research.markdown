@@ -23,6 +23,8 @@ A full list of my published work can be found on my [Google Scholar](https://sch
 
 # Highlighted Publications
 
+**Chan, A.**, I. Bica, A. Huyuk, D. Jarrett, & van der Schaar, M. [**The Medkit-learn(ing) Environment: Medical Decision Modelling through Simulation**](https://openreview.net/forum?id=Ayf90B1yESX){:target="_blank"}, Proceedings of the Neural Information Processing Systems (NeurIPS) track on Datasets and Benchmarks, 2021.
+
 **Chan, A.** & van der Schaar, M. [**Scalable Bayesian Inverse Reinforcement Learning**](https://openreview.net/forum?id=4qR3coiNaIv){:target="_blank"}, International Conference on Learning Representations (ICLR), 2021.
 
 Alaa, A., **Chan, A.**, & van der Schaar, M. [**Generative Time-series Modeling with Fourier Flows**](https://openreview.net/forum?id=PpshD0AXfA){:target="_blank"}, International Conference on Learning Representations (ICLR), 2021.
