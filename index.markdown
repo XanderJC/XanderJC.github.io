@@ -168,6 +168,12 @@ You can find links below to my profiles on relevent professional platforms (and 
 <h1>Recent News</h1>
 
 <div class="timeline1">
+  <div class="container1 right1">
+    <div class="content1">
+      <h3>Oct 2021</h3>
+      <p markdown="1"> [**The Medkit-learn(ing) Environment: Medical Decision Modelling through Simulation**](https://openreview.net/forum?id=Ayf90B1yESX){:target="_blank"} is accepted to the Neural Information Processing Systems (NeurIPS) main conference track on Datasets and Benchmarks.</p>
+    </div>
+  </div>
   <div class="container1 left1">
     <div class="content1">
       <h3>Jan 2021</h3>
