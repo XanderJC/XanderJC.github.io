@@ -16,7 +16,7 @@ I'm a part of the [Machine Learning and Artificial Intelligince for Medicine](ht
 </p>
 
 <p markdown="1">
-Additionally I'm co-supervised by [Danielle Belgrave](https://www.microsoft.com/en-us/research/people/dabelgra/){:target="_blank"} at Microsoft Research through their PhD Scholarship program with which I am funded.
+Additionally I'm co-supervised by [Aditya Nori](https://www.microsoft.com/en-us/research/people/adityan/){:target="_blank"} (and previously [Danielle Belgrave](https://en.wikipedia.org/wiki/Danielle_Belgrave){:target="_blank"}) at Microsoft Research through their PhD Scholarship program with which I am funded.
 </p>
 
 <p markdown="1">
@@ -30,7 +30,7 @@ For my specific research interests please see [here](/research.markdown).
 # (Maybe) Interestingly
 
 <p markdown="1">
-Like many who arrive at Cambridge, I've been sucked into the cult of rowing and currently I'm the Novices Captain of the Wolfson College Boat Club, giving me the enviable task of training the next generation of Wolfson rowers during a pandemic.
+Like many who arrive at Cambridge, I've been sucked into the cult of rowing and currently I'm the Captain of the Wolfson College Boat Club.
 </p>
 
 <style>
@@ -41,8 +41,8 @@ Like many who arrive at Cambridge, I've been sucked into the cult of rowing and 
 </style>
 
 <figure>
-    <img src="../img/rowing.jpg" alt="rowing" class="responsive" />
-    <figcaption>Lent Bumps 2020. Only finished -3 so not a complete failure.</figcaption>
+    <img src="../img/rowing2.jpg" alt="rowing" class="responsive" />
+    <figcaption>Wolfson M1 May 2021.</figcaption>
 <figure>
 
 <p markdown="1">

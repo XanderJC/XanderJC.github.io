@@ -23,14 +23,18 @@ A full list of my published work can be found on my [Google Scholar](https://sch
 
 # Highlighted Publications
 
-**Chan, A.**, Bica, I., Huyuk A., Jarrett, D., & van der Schaar, M. [**The Medkit-learn(ing) Environment: Medical Decision Modelling through Simulation**](https://openreview.net/forum?id=Ayf90B1yESX){:target="_blank"}, Proceedings of the Neural Information Processing Systems (NeurIPS) track on Datasets and Benchmarks, 2021.
+**A. J. Chan**, A. Curth & M. van der Schaar [**Inverse Online Learning: Understanding Non-Stationary and Reactionary Policies**](https://openreview.net/forum?id=DYypjaRdph2){:target="_blank"}, International Conference on Learning Representations (ICLR), 2022.
 
-**Chan, A.** & van der Schaar, M. [**Scalable Bayesian Inverse Reinforcement Learning**](https://openreview.net/forum?id=4qR3coiNaIv){:target="_blank"}, International Conference on Learning Representations (ICLR), 2021.
+A. Pace, **A. J. Chan**, & M. van der Schaar [**POETREE: Interpretable Policy Learning with Adaptive Decision Trees**](https://openreview.net/forum?id=AJsI-ymaKn_){:target="_blank"}, International Conference on Learning Representations (ICLR), 2022.
 
-Alaa, A., **Chan, A.**, & van der Schaar, M. [**Generative Time-series Modeling with Fourier Flows**](https://openreview.net/forum?id=PpshD0AXfA){:target="_blank"}, International Conference on Learning Representations (ICLR), 2021.
+**A. J. Chan**, I. Bica, A. Huyuk, D. Jarrett, & M. van der Schaar [**The Medkit-learn(ing) Environment: Medical Decision Modelling through Simulation**](https://openreview.net/forum?id=Ayf90B1yESX){:target="_blank"}, Proceedings of the Neural Information Processing Systems (NeurIPS) track on Datasets and Benchmarks, 2021.
 
-**Chan, A.**, Alaa, A., Qian, Z., & van der Schaar, M. [**Unlabelled Data Improves Bayesian Uncertainty Calibration under Covariate Shift**](https://arxiv.org/abs/2006.14988){:target="_blank"}, International Conference on Machine Learning (ICML), 2020.
+**A. J. Chan** & M. van der Schaar [**Scalable Bayesian Inverse Reinforcement Learning**](https://openreview.net/forum?id=4qR3coiNaIv){:target="_blank"}, International Conference on Learning Representations (ICLR), 2021.
 
-**Chan, A.** & van der Schaar, M. [**Interpretable Policy Learning**](/docs/mphil_thesis.pdf){:target="_blank"}, MPhil Machine Learning and Machine Intelligence Thesis, 2020.
+A. M. Alaa, **A. J. Chan**, & M. van der Schaar [**Generative Time-series Modeling with Fourier Flows**](https://openreview.net/forum?id=PpshD0AXfA){:target="_blank"}, International Conference on Learning Representations (ICLR), 2021.
 
-**Chan, A.** & Silva, R. [**Probabilistic Deep Learning**](/docs/bsc_thesis.pdf){:target="_blank"}, BSc Statistics Thesis, 2019.
+**A. J. Chan**, A. M. Alaa, Z. Qian, & M. van der Schaar [**Unlabelled Data Improves Bayesian Uncertainty Calibration under Covariate Shift**](https://arxiv.org/abs/2006.14988){:target="_blank"}, International Conference on Machine Learning (ICML), 2020.
+
+**A. J. Chan** & M. van der Schaar [**Interpretable Policy Learning**](/docs/mphil_thesis.pdf){:target="_blank"}, MPhil Machine Learning and Machine Intelligence Thesis, 2020.
+
+**A. J. Chan** & R. Silva [**Probabilistic Deep Learning**](/docs/bsc_thesis.pdf){:target="_blank"}, BSc Statistics Thesis, 2019.
