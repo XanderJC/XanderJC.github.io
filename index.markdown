@@ -168,6 +168,12 @@ You can find links below to my profiles on relevent professional platforms (and 
 <h1>Recent News</h1>
 
 <div class="timeline1">
+  <div class="container1 right1">
+    <div class="content1">
+      <h3>Mar 2022</h3>
+      <p markdown="1"> Awarded 2nd place in the [**G-research PhS prize in maths and data science**](https://www.gresearch.co.uk/article/g-research-phd-prize-in-maths-and-data-science-2022/){:target="_blank"}!</p>
+    </div>
+  </div>
   <div class="container1 left1">
     <div class="content1">
       <h3>Jan 2022</h3>
