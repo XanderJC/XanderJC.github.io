@@ -171,7 +171,7 @@ You can find links below to my profiles on relevent professional platforms (and 
   <div class="container1 right1">
     <div class="content1">
       <h3>Mar 2022</h3>
-      <p markdown="1"> Awarded second place in the [**G-research PhD prize in maths and data science**](https://www.gresearch.co.uk/article/g-research-phd-prize-in-maths-and-data-science-2022/){:target="_blank"} for best PhD draft dissertation!</p>
+      <p markdown="1"> Awarded second place in the [**G-Research PhD prize in maths and data science**](https://www.gresearch.co.uk/article/g-research-phd-prize-in-maths-and-data-science-2022/){:target="_blank"} for best PhD draft dissertation!</p>
     </div>
   </div>
   <div class="container1 left1">
