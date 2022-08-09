@@ -53,6 +53,4 @@ Previous to taking up rowing, I trained in [Krav Maga](https://pure-kravmaga.co.
     <figcaption>Knife disarm - now time for some knees to the face.</figcaption>
 <figure>
 
-<p markdown="1">
-I'm loosely involved in the [Effective Altruism](https://www.effectivealtruism.org){:target="_blank"} movement, having helped run the society at UCL in my last couple years. Conveniently their focus on safe AI aligns neatly with my research focus.
-</p>
+
