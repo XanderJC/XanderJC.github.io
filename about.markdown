@@ -8,7 +8,7 @@ background: '/img/housemates.jpg'
 
 # Academically 
 <p markdown="1">
-I'm a second-year PhD student at [Wolfson College](https://www.wolfson.cam.ac.uk){:target="_blank"}, University of Cambridge, in Machine Learning with applications to healthcare and medicine. 
+I'm a third-year PhD student at [Wolfson College](https://www.wolfson.cam.ac.uk){:target="_blank"}, University of Cambridge, in Machine Learning with applications to healthcare and medicine. 
 </p>
 
 <p markdown="1">
