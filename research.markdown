@@ -23,6 +23,8 @@ A full list of my published work can be found on my [Google Scholar](https://sch
 
 # Highlighted Publications
 
+**A. J. Chan** & M. van der Schaar [**Synthetic Model Combination: An Instance-wise Approach to Unsupervised Ensemble Learning**](https://openreview.net/forum?id=RgWjps_LdkJ){:target="_blank"}, Advances in Neural Information Processing Systems (NeruIPS), 2022.
+
 **A. J. Chan**, A. Curth & M. van der Schaar [**Inverse Online Learning: Understanding Non-Stationary and Reactionary Policies**](https://openreview.net/forum?id=DYypjaRdph2){:target="_blank"}, International Conference on Learning Representations (ICLR), 2022.
 
 A. Pace, **A. J. Chan**, & M. van der Schaar [**POETREE: Interpretable Policy Learning with Adaptive Decision Trees**](https://openreview.net/forum?id=AJsI-ymaKn_){:target="_blank"}, International Conference on Learning Representations (ICLR), 2022.

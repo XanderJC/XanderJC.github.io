@@ -175,7 +175,7 @@ For a summary, feel free to take a look at my [**CV**](/docs/Academic_CV.pdf){:t
 <div class="container1 left1">
     <div class="content1">
       <h3>Sep 2022</h3>
-      <p markdown="1">  Accepted to NeurIPS 2022: **Synthetic Model Combination: An Instance-wise Approach to Unsupervised Ensemble Learning**! </p>
+      <p markdown="1">  Accepted to NeurIPS 2022: [**Synthetic Model Combination: An Instance-wise Approach to Unsupervised Ensemble Learning**](https://openreview.net/forum?id=RgWjps_LdkJ){:target="_blank"}! </p>
     </div>
   </div>
   <div class="container1 right1">
