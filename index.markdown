@@ -166,7 +166,7 @@ You can find links below to my profiles on relevent professional platforms (and 
 </p>
 
 <p markdown="1">
-[CV](/docs/Academic_CV.pdf){:target="_blank"} | [Email](mailto:me@alexjchan.com) | [Google Scholar](https://scholar.google.com/citations?user=yfy_BGIAAAAJ&hl=en&oi=sra){:target="_blank"} | [Github](https://github.com/XanderJC){:target="_blank"}| [LinkedIn](https://www.linkedin.com/in/alexjchan/){:target="_blank"} | [Twitter](https://twitter.com/AlexJChan){:target="_blank"}
+[CV](/docs/Academic_CV.pdf){:target="_blank"} | [Email](mailto:me@alexjchan.com) | [Google Scholar](https://scholar.google.com/citations?user=yfy_BGIAAAAJ&hl=en&oi=sra){:target="_blank"} | [Github](https://github.com/XanderJC){:target="_blank"} | [LinkedIn](https://www.linkedin.com/in/alexjchan/){:target="_blank"} | [Twitter](https://twitter.com/AlexJChan){:target="_blank"}
 </p>
 
 <h1>Recent News</h1>
