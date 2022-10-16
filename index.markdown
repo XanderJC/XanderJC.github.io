@@ -162,11 +162,11 @@ If for some reason you're interested in [who I am](/about) or [what I do](/resea
 </p>
 
 <p markdown="1">
-You can find links below to my profiles on relevent professional platforms (and importantly [Strava](https://www.strava.com/athletes/alexjchan){:target="_blank"}) as well as some summaries of my previous works and interests. If I have the time, I also plan to write some more generally accessible explanations of my research in a series of [blog-posts](/posts), which will be updated sporadically. At the end of the day though, this website is just a personal project for me to advertise myself and potentially use to practice some front-end work, so if you can't find something feel free to get in contact through one of the many ways available in the modern world - including my email at [me@alexjchan.com](mailto:me@alexjchan.com) and this [form](/contact).
+You can find links below to my profiles on relevent professional platforms (and importantly [Strava](https://www.strava.com/athletes/alexjchan){:target="_blank"}) as well as some summaries of my previous works and interests. If I have the time, I also plan to write some more generally accessible explanations of my research in a series of [blog-posts](/posts), which will be updated sporadically. At the end of the day though, this website is just a personal project for me to advertise myself and potentially use to practice some front-end work, so if you can't find something feel free to get in contact through one of the many ways available in the modern world - including my [email](mailto:me@alexjchan.com) and this [form](/contact).
 </p>
 
 <p markdown="1">
-For a summary, feel free to take a look at my [**CV**](/docs/Academic_CV.pdf){:target="_blank"}.
+[CV](/docs/Academic_CV.pdf){:target="_blank"} | [Email](mailto:me@alexjchan.com) | [Google Scholar](https://scholar.google.com/citations?user=yfy_BGIAAAAJ&hl=en&oi=sra){:target="_blank"} | [Github](https://github.com/XanderJC){:target="_blank"}| [LinkedIn](https://www.linkedin.com/in/alexjchan/){:target="_blank"} | [Twitter](https://twitter.com/AlexJChan){:target="_blank"}
 </p>
 
 <h1>Recent News</h1>
