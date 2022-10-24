@@ -5,9 +5,6 @@ permalink: /research/
 description: Thinking about things.
 background: '/img/bigmouth.jpg'
 ---
-<p markdown="1">
-I do machine learning with a focus on problems that arise in the medical setting.
-</p>
 
 <p markdown="1">
 I'm interested in developing safe and robust machine learning systems that behave in the way we expect, making them able to work with humans effectively.
