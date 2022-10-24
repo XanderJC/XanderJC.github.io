@@ -10,11 +10,15 @@ I do machine learning with a focus on problems that arise in the medical setting
 </p>
 
 <p markdown="1">
-My main focus is imitation learning and inverse reinforcement learning for understanding (clinical) decision making as well as synthetic data generation. It's important to try to understand the decision making process of doctors so that we can best provide them with useful support and spot potentially dangerous mistakes. Synthetic data makes this goal more realistic by lowering the barrier to entry for others to do work in the area but can also be useful for benchmarking algorithms by providing ground truth notions to clinical data.
+I'm interested in developing safe and robust machine learning systems that behave in the way we expect, making them able to work with humans effectively.
 </p>
 
 <p markdown="1">
-Whenever I can, I like to do things in a [Bayesian](https://en.wikipedia.org/wiki/Bayesian_inference){:target="_blank"} way. Everything we do is done under uncertainty and this provides a principled way to reason in its presence - this is especially important when high-stakes decisions are being taken and knowing what we do not know becomes very relevant.
+One aspect of this is understanding decision making agents through imitation and inverse reinforcement learning. A probabilistic perspective allows us to handle the crucial uncertainty surrounding behaviour and as part of my PhD I'm looking to build scalable and well-calibrated Bayesian approximate methods that can bring us key insights and support high-stakes decisions particularly in the medical setting.
+</p>
+
+<p markdown="1">
+I'm also interested in general problems in reward (mis-)specification/hacking/(mis-)generalisation, as well as recently understanding internal concepts in large foundation models.
 </p>
 
 <p markdown="1">
