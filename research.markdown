@@ -15,7 +15,7 @@ One aspect of this is understanding decision making agents through imitation and
 </p>
 
 <p markdown="1">
-I'm also interested in general problems in reward (mis-)specification/hacking/(mis-)generalisation, as well as recently understanding internal concepts in large foundation models.
+I'm also interested in general problems in reward (mis-)specification / hacking / (mis-)generalisation, as well as recently understanding internal concepts in large foundation models.
 </p>
 
 <p markdown="1">
