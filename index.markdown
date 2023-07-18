@@ -154,15 +154,14 @@ background: '/img/dalle.jpg'
 <figure>
 
 <p markdown="1">
-Hi! I'm **Alex**, a Machine Learning PhD student at Cambridge and this is my website. 
+Hi! I'm **Alex**, a Machine Learning PhD student at Cambridge, currently interning at Spotify. I am interested in developing safe and robust machine learning systems that behave in the way we expect, and
+thus able to work with humans effectively. My work has often explored inverse reinforcement learning and
+imitation learning in order to learn from humans, and I’m interested in using this knowledge and generative
+AI to create insight and develop personalised, human-centric, decision making systems.
 </p>
 
 <p markdown="1">
-If for some reason you're interested in [who I am](/about) or [what I do](/research) then you've come to the right place.
-</p>
-
-<p markdown="1">
-You can find links below to my profiles on relevent professional platforms (and importantly [Strava](https://www.strava.com/athletes/alexjchan){:target="_blank"}) as well as some summaries of my previous works and interests. If I have the time, I also plan to write some more generally accessible explanations of my research in a series of [blog-posts](/posts), which will be updated sporadically. At the end of the day though, this website is just a personal project for me to advertise myself and potentially use to practice some front-end work, so if you can't find something feel free to get in contact through one of the many ways available in the modern world - including my [email](mailto:me@alexjchan.com) and this [form](/contact).
+If for some reason you're interested in [who I am](/about) or [what I do](/research) then you've come to the right place. However, if you can't find something feel free to get in contact through one of the many ways available in the modern world - including my [email](mailto:me@alexjchan.com) and this [form](/contact).
 </p>
 
 <p markdown="1">
@@ -172,6 +171,18 @@ You can find links below to my profiles on relevent professional platforms (and 
 <h1>Recent News</h1>
 
 <div class="timeline1">
+<div class="container1 left1">
+    <div class="content1">
+      <h3>Jun 2023</h3>
+      <p markdown="1">  Starting as a **Research Scientist Intern at Spotify** as part of the Satisfaction, Interaction and Algorithms (SIA) team, working on intergratings large language models into the content moderation pipeline using culturally finetuned models.</p>
+    </div>
+  </div>
+  <div class="container1 right1">
+    <div class="content1">
+      <h3>Jan 2023</h3>
+      <p markdown="1"> Taking part as a [**SERI-MATS Scholar**](https://www.serimats.org/){:target="_blank"} working with Owain Evans, investigating deception in large language models along with methods to detect a notion of lying using only black-box access.</p>
+    </div>
+  </div>
 <div class="container1 left1">
     <div class="content1">
       <h3>Sep 2022</h3>

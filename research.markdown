@@ -7,16 +7,12 @@ background: '/img/bigmouth.jpg'
 ---
 
 <p markdown="1">
-I'm interested in developing safe and robust machine learning systems that behave in the way we expect, making them able to work with humans effectively.
+I am interested in developing safe and robust machine learning systems that behave in the way we expect, and
+thus able to work with humans effectively. My work has often explored inverse reinforcement learning and
+imitation learning in order to learn from humans, and I’m interested in using this knowledge and generative
+AI to create insight and develop personalised, human-centric, decision making systems.
 </p>
 
-<p markdown="1">
-One aspect of this is understanding decision making agents through imitation and inverse reinforcement learning. A probabilistic perspective allows us to handle the crucial uncertainty surrounding behaviour and as part of my PhD I'm looking to build scalable and well-calibrated Bayesian approximate methods that can bring us key insights and support high-stakes decisions particularly in the medical setting.
-</p>
-
-<p markdown="1">
-I'm also interested in general problems in reward (mis-)specification / hacking / (mis-)generalisation, as well as recently understanding internal concepts in large foundation models.
-</p>
 
 <p markdown="1">
 A full list of my published work can be found on my [Google Scholar](https://scholar.google.com/citations?user=yfy_BGIAAAAJ&hl=en&oi=sra){:target="_blank"}
