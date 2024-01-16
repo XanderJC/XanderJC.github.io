@@ -174,13 +174,13 @@ If for some reason you're interested in [who I am](/about) or [what I do](/resea
 <div class="container1 left1">
     <div class="content1">
       <h3>Jun 2023</h3>
-      <p markdown="1">  [**How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions**](https://openreview.net/forum?id=567BjxgaTp){:target="_blank"}  accepted to ICLR 2024</p>
+      <p markdown="1">  [**How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions**](https://openreview.net/forum?id=567BjxgaTp){:target="_blank"}  accepted to ICLR 2024!</p>
     </div>
   </div>
   <div class="container1 right1">
     <div class="content1">
       <h3>Jan 2023</h3>
-      <p markdown="1"> Two papers accepted to NeurIPS 2023: [**AllSim: Systematic Simulation and Benchmarking of Repeated Resource Allocation Policies in Multi-User Systems with Varying Resources**](https://openreview.net/forum?id=wiw5mnja8W){:target="_blank"} and [**GAUCHE: A Library for Gaussian Processes in Chemistry**](https://openreview.net/forum?id=vzrA6uqOis){:target="_blank"}! Also a fun workshop paper:[**Optimising Human-AI Collaboration by Finding Convincing Explanations**](https://arxiv.org/abs/2311.07426){:target="_blank"}! </p>
+      <p markdown="1"> Two papers accepted to NeurIPS 2023: [**AllSim: Systematic Simulation and Benchmarking of Repeated Resource Allocation Policies in Multi-User Systems with Varying Resources**](https://openreview.net/forum?id=wiw5mnja8W){:target="_blank"} and [**GAUCHE: A Library for Gaussian Processes in Chemistry**](https://openreview.net/forum?id=vzrA6uqOis){:target="_blank"}! Also a fun workshop paper: [**Optimising Human-AI Collaboration by Finding Convincing Explanations**](https://arxiv.org/abs/2311.07426){:target="_blank"}! </p>
     </div>
   </div>
 <div class="container1 left1">
