@@ -20,6 +20,10 @@ A full list of my published work can be found on my [Google Scholar](https://sch
 
 # Highlighted Publications
 
+L. Pacchiardi, **A. J. Chan**, S. Mindermann, I. Moscovitz, A. Pan, Y. Gal,  O. Evans, &  J. M. Brauner.[**How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions**](https://openreview.net/forum?id=567BjxgaTp){:target="_blank"}, International Conference on Learning Representations (ICLR), 2024. [**PDF**](/docs/papers/how_to_catch.pdf){:target="_blank"}
+
+**A. J. Chan**, A. Huyuk, & M. van der Schaar [**Optimising Human-AI Collaboration by Finding Convincing Explanations**](https://arxiv.org/abs/2311.07426){:target="_blank"}, NeurIPS XAI in Action, 2023. [**PDF**](/docs/papers/ardent.pdf){:target="_blank"}
+
 **A. J. Chan** & M. van der Schaar [**Synthetic Model Combination: An Instance-wise Approach to Unsupervised Ensemble Learning**](https://openreview.net/forum?id=RgWjps_LdkJ){:target="_blank"}, Advances in Neural Information Processing Systems (NeurIPS), 2022. [**PDF**](/docs/papers/smc.pdf){:target="_blank"}
 
 T. Liu, **A. J. Chan**, B. van Breugel, & M. van der Schaar [**Practical Approaches for Fair Learning with Multitype and Multivariate Sensitive Attributes**](https://arxiv.org/abs/2211.06138){:target="_blank"}, Algorithmic Fairness through the Lens of Causality and Privacy (AFCP) at NeurIPS, 2022. [**PDF**](/docs/papers/fair_cocco.pdf){:target="_blank"}
