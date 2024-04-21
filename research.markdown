@@ -20,7 +20,7 @@ A full list of my published work can be found on my [Google Scholar](https://sch
 
 # Highlighted Publications
 
-L. Pacchiardi, **A. J. Chan**, S. Mindermann, I. Moscovitz, A. Pan, Y. Gal,  O. Evans, &  J. M. Brauner.[**How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions**](https://openreview.net/forum?id=567BjxgaTp){:target="_blank"}, International Conference on Learning Representations (ICLR), 2024. [**PDF**](/docs/papers/how_to_catch.pdf){:target="_blank"}
+L. Pacchiardi, **A. J. Chan**, S. Mindermann, I. Moscovitz, A. Pan, Y. Gal,  O. Evans, &  J. M. Brauner [**How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions**](https://openreview.net/forum?id=567BjxgaTp){:target="_blank"}, International Conference on Learning Representations (ICLR), 2024. [**PDF**](/docs/papers/how_to_catch.pdf){:target="_blank"}
 
 **A. J. Chan**, A. Huyuk, & M. van der Schaar [**Optimising Human-AI Collaboration by Finding Convincing Explanations**](https://arxiv.org/abs/2311.07426){:target="_blank"}, NeurIPS XAI in Action, 2023. [**PDF**](/docs/papers/ardent.pdf){:target="_blank"}
 
